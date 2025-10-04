@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @crypto-risk
 - 👀 I’m interested in crypto, risk, data, quant finance and weightlifting
-- 🌱 I’m currently learning how life works with the help of lines of code
-- 💞️ I’m looking to collaborate on cool DeFi, finance and crypto projects
+- 🤝 I’m looking to collaborate on cool DeFi, finance and crypto projects
 - 📫 How to reach me ...
 
 <!---
